@@ -10,6 +10,9 @@ namespace Git_test
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is GIT test.");
+            Console.WriteLine("This create new version.")
+            Console.Read();
         }
     }
 }
