@@ -12,6 +12,7 @@ namespace Git_test
         {
             Console.WriteLine("This is GIT test.");
             Console.WriteLine("This create new version.");
+            Console.WriteLine("...");
             Console.Read();
         }
     }
